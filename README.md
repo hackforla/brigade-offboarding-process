@@ -1,4 +1,6 @@
-# Project title and description
+# Brigade offboarding process
+
+[Hack for LA repositories and their status spreadsheet](https://docs.google.com/spreadsheets/d/1jS0yQvYVppVqYfqVCDRGsMDFa0tGf7-qIIcwtyLfDK4/edit#gid=0)
 
 Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
 
